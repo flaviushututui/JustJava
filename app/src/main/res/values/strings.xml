@@ -1,0 +1,15 @@
+<resources xmlns:xlif="urn:oasis:names:tc:xlif:document:1.2">
+    <string name="app_name">Coffe Shop</string>
+    <string name="customer_name">Your name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="whipped_cream_added">Added whipped cream</string>
+    <string name="chocolate_added">Added chocolate</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="total">Total:</string>
+    <string name="order_button">Order</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="order_sumary_name" translatable="false">Name: <xlif:g id="name">%s</xlif:g></string>
+    <string name="email_subject">Coffe order from</string>
+</resources>

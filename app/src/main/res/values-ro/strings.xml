@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cafenea</string>
+    <string name="thank_you">Mulțumesc!</string>
+    <string name="toppings">Topping-uri</string>
+    <string name="customer_name">Numele dumneavoastră</string>
+    <string name="whipped_cream">Frișcă</string>
+    <string name="quantity">Cantitate</string>
+    <string name="chocolate">Ciocolată</string>
+    <string name="order_button">comandă</string>
+    <string name="email_subject">"Comandă de cafea de la "</string>
+    <string name="chocolate_added">Am adăugat ciocolată</string>
+    <string name="total">Total:</string>
+    <string name="whipped_cream_added">Am adăugat frișcă</string>
+</resources>
